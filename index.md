@@ -1,6 +1,6 @@
 ## Welcome
 
-I am lecturer at the University of Edinburgh and an Assistant Professor at the University of Edinburgh - Zhejiang University Institute. This is my public github repository. 
+I am a lecturer at the University of Edinburgh and an Assistant Professor at the University of Edinburgh - Zhejiang University Institute. This is my public github repository. 
 
 [My University of Edinburgh webpage](https://www.ed.ac.uk/profile/robert-young)
 
