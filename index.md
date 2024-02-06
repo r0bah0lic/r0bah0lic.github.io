@@ -1,6 +1,7 @@
 ## Welcome 
 
-My name is ----. 
-I am an IBI1 student at ZJU-UoE institute, Zhejiang University.
+My name is Rob Young.  
+I am a Lecturer at the Zhejiang University - University of Edinburgh (ZJE) Institute.
 
-[webpage](https://c.zju.edu.cn/) 
+You can see the ZJE website [here](https://zje.zju.edu.cn/zje/main.htm) 
+You can follow me on [X](https://twitter.com/r0bah0lic) or read my blog at [Down The Tweed](https://downthetweed.wordpress.com/)
