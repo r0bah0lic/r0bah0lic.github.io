@@ -7,5 +7,5 @@ You can see the ZJE website [here](https://zje.zju.edu.cn/zje/main.htm)
 
 You can follow me on [X](https://twitter.com/r0bah0lic) or read my blog at [Down The Tweed](https://downthetweed.wordpress.com/)
 
-![](https://github.com/r0bah0lic/website.r0bah0lic.github.io/blob/master/images/git.png)
+![GitHub cartoon](https://github.com/r0bah0lic/website.r0bah0lic.github.io/blob/master/images/git.png)
 
